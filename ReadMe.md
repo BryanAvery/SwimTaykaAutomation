@@ -1,7 +1,7 @@
 ﻿
-# SwimTaykaStreak
+# SwimTayka Automation API's
 
-This project is developed for SwimTayka, a charity dedicated to teaching swimming and water safety to underprivileged children around the globe. The codebase integrates functionalities for updating fundraising amounts collected via JustGiving into a Streak CRM.
+This project has been developed for SwimTayka, a charity dedicated to teaching swimming and water safety to underprivileged children around the globe. The codebase integrates functionalities for updating fundraising amounts collected via JustGiving into a Streak CRM.
 
 ## Prerequisites
 
