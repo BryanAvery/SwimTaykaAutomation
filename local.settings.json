@@ -1,0 +1,10 @@
+﻿{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "Logging__LogLevel__Default": "Information",
+    "Logging__LogLevel__Microsoft": "Warning",
+    "Logging__LogLevel__Microsoft.Hosting.Lifetime": "Information"
+  }
+}
